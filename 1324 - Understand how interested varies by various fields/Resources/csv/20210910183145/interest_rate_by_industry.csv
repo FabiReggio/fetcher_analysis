@@ -1,0 +1,74 @@
+industry;interest_rate;count
+Apparel & Fashion;0.5424354243542435;271
+Automotive;0.32064128256513025;499
+Aviation & Aerospace;0.3872832369942196;173
+Banking;0.5117004680187207;641
+Biotechnology;0.4448818897637795;254
+Chemicals;0.6428571428571429;14
+Commercial Real Estate;0.36666666666666664;60
+Computer & Network Security;0.5227272727272727;44
+Computer Games;0.21428571428571427;56
+Computer Hardware;0.4;5
+Computer Software;0.45847354960290754;7429
+Computer and Network Security;0.4857142857142857;35
+Construction;0.851963746223565;331
+Consumer Electronics;0.4050632911392405;395
+Consumer Goods;0.5413533834586466;133
+Defense & Space;0.6153846153846154;13
+Design;0.45170454545454547;352
+E-Learning;0.36;1075
+E-commerce;0.5865384615384616;104
+Education Management;0.4583333333333333;24
+Entertainment;0.3333333333333333;6
+Environmental Services;0.55;40
+Financial Services;0.4426981008513425;1527
+Food & Beverages;0.43204320432043203;1111
+Food and Beverages;0.3717948717948718;156
+Gambling & Casinos;0.6666666666666666;3
+Health, Wellness and Fitness;0.3614365277511043;5207
+Hospital & Health Care;0.3968253968253968;189
+Hospitality;0.4182692307692308;208
+Human Resources;0.2;5
+Individual & Family Services;0.35384615384615387;65
+Industrial Automation;0.2949640287769784;139
+Information Services;0.34057971014492755;138
+Information Technology and Services;0.4186521443158611;1469
+Insurance;0.07692307692307693;13
+International Trade and Development;0.35294117647058826;17
+Internet;0.3475601987514333;7849
+Investment Banking/Venture;0.7777777777777778;9
+Investment Management;0.5;2
+Law Practice;0.5555555555555556;9
+Leisure and Travel;0.5254237288135594;118
+Leisure, Travel & Tourism;0.3971119133574007;277
+Logistics and Supply Chain;0.4168618266978923;854
+Machinery;0.7368421052631579;19
+Management Consulting;0.5842293906810035;279
+Marketing and Advertising;0.456575682382134;403
+Mechanical or Industrial Engineering;0.4015151515151515;132
+Media Production;0.48;50
+Medical Device;0.1111111111111111;36
+Medical Devices;0.3136094674556213;169
+Medical Practice;0.3005050505050505;396
+Mental Health Care;0.23529411764705882;119
+Military;0.4;40
+Oil & Energy;1.0;2
+Online Media;0.32524271844660196;206
+Online Publishing;0.5357142857142857;28
+Packaging and Containers;0.6;10
+Political Organization;0.4425531914893617;235
+Real Estate;0.5137362637362637;364
+Renewables & Environment;0.0;3
+Research;0.42857142857142855;7
+Retail;0.2795031055900621;1288
+SaaS;0.6363636363636364;99
+Sales;0.27586206896551724;29
+Semiconductors;0.28117359413202936;409
+Software;0.5796766743648961;433
+Sports;0.37142857142857144;70
+Staffing and Recruiting;0.4247191011235955;445
+Tech;0.5;70
+Textiles;0.4444444444444444;9
+Transportation/Trucking/Railroad;0.5294117647058824;34
+Wine and Spirits;0.7115384615384616;52
+Writing and Editing;0.42857142857142855;14
