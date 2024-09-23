@@ -1,0 +1,6 @@
+{
+    "from" : "octavio@fetcher.ai",
+    "recipients" : ["yerlangv@fetcher.ai", "william@fetcher.ai"],
+    "subject" : "Poor consecutive batches {month}",
+    "body": "\nHi team,\n\nHere's the CSV corresponding to the poor consecutive batches for {month}.\nI hope you have a great month. You can reach out to me if any question arises.\nBest,\n\nOcta\n"
+}
